@@ -1,0 +1,4 @@
+1|Orang|Radja|Drama|2023|Tersedia
+2|Cahaya|Radja|Drama|2021|Tersedia
+3|Bulana|Radja|Comedy|2019|Dipinjam
+4|Funaculi|Kyora|Comedy|2020|Tersedia
