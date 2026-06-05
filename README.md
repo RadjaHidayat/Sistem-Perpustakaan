@@ -24,17 +24,13 @@ A simple console-based Library Management System developed in **C++** using stru
 ## Storage
 
 The application stores data locally using:
-
 * `admin.txt`
 * `user.txt`
 * `buku.txt`
 * `riwayat.txt`
 
 ## Build With
-
 * C++
-* STL (`vector`, `string`, `fstream`, `sstream`)
-
 ---
 
 Academic project for learning data structures and file handling in C++.
